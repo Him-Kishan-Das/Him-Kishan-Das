@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Him-Kishan-Das
-- 👀 I’m interested in Web-Development
-- ✅ html / css
+- 👀 Web-Development 
+- ✅ html / css / js / php / mysql /
 - ✅ c - language
-- Javascript Processing.............
 -
 <!---
 Him-Kishan-Das/Him-Kishan-Das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
