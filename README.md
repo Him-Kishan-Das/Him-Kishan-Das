@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Him-Kishan-Das
 - 👀 Web-Development 
-- ✅ html / css / js / php / mysql /
+- ✅ html / css / js / php / mysql / tailwindcss / 
 - ✅ c - language
 -
 <!---
