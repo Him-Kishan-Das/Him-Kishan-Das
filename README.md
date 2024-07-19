@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://photos.app.goo.gl/46g7HA8EceB3beCQ7"/>
+<img align="center" alt="Coding" width="100%" src="https://drive.google.com/file/d/1eWhmkeeKE_CgH36eafFJ-pOYDiPyMwve/view?usp=sharing"/>
 <h1 align="center">Hi 👋, I'm Him Kishan Das</h1>
 <h3 align="center">A passionate full-stack developer from Assam, India. I have completed my Bachelor of Computer Application in the year 2023. And I am currently pursuing Master of Computer Applications from Cotton University.</h3>
 
