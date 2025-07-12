@@ -7,8 +7,8 @@
 
 - 🌱 I’m currently learning **MERN(MongoDB, Express, React, Node.js)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP**
--  Recently finished learning **Django**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP**, **Django**
+-  Recently finished learning **MERN**
 
 - 📫 How to reach me **himkishandas456@gmail.com**
 
