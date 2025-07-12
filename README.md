@@ -1,7 +1,7 @@
 <div style="height: 200px; overflow"hidden" "><img align="center" alt="Coding" width="100%" src="/Designer%20(5)%20(1).png" style="height: 100%; object-fit: cover; object-position: center;"/></div>
 
 <h1 align="center">Hi 👋, I'm Him Kishan Das</h1>
-<h3 align="center">A passionate full-stack developer from Assam, India. I have completed my Bachelor of Computer Application in the year 2023. And I am currently pursuing Master of Computer Applications from Cotton University.</h3>
+<h3 align="center">A passionate full-stack developer from Assam, India. I have completed my Bachelor of Computer Application in the year 2023. And have recently completed my Master of Computer Applications from Cotton University.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=him-kishan-das&label=Profile%20views&color=0e75b6&style=flat" alt="him-kishan-das" /> </p>
 
