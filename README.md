@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=him-kishan-das&label=Profile%20views&color=0e75b6&style=flat" alt="him-kishan-das" /> </p>
 
-- 🌱 I’m currently learning **MERN(MongoDB, Express, React, Node.js)**
+- 🌱 I’m currently doing some projects on web developement**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, PHP**, **Django**
 -  Recently finished learning **MERN**
